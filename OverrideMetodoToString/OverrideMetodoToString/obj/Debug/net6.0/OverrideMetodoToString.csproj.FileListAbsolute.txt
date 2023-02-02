@@ -1,0 +1,15 @@
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\bin\Debug\net6.0\OverrideMetodoToString.exe
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\bin\Debug\net6.0\OverrideMetodoToString.deps.json
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\bin\Debug\net6.0\OverrideMetodoToString.runtimeconfig.json
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\bin\Debug\net6.0\OverrideMetodoToString.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\bin\Debug\net6.0\OverrideMetodoToString.pdb
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.csproj.AssemblyReference.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.AssemblyInfoInputs.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.AssemblyInfo.cs
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.csproj.CoreCompileInputs.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\refint\OverrideMetodoToString.dll
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.pdb
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\OverrideMetodoToString.genruntimeconfig.cache
+C:\Users\laril\OneDrive\Documentos\Ima - Sharp Coders\Estudos a parte\Override em ToString\OverrideMetodoToString\OverrideMetodoToString\obj\Debug\net6.0\ref\OverrideMetodoToString.dll
